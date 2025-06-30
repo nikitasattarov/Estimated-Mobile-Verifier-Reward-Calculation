@@ -220,5 +220,3 @@ st.write(mv_rew_per_sec)
 user_reward = delta_mv_e * mv_rew_per_sec * u_mv_e
 
 st.write(user_reward)
-
-st.write(user_reward / 100000 * 2678400)
