@@ -81,6 +81,6 @@ if max_mamaboard_lvl == 2:
     st.write(sublist_max_mamaboard_component_index)
 
 if max_mamaboard_lvl == 3:
-    sublist_max_mamaboard_component_index = max_mamaboard_component_index_list[:-13]
+    sublist_max_mamaboard_component_index = max_mamaboard_component_index_list[-13:]
     st.write(sublist_max_mamaboard_component_index)
 
