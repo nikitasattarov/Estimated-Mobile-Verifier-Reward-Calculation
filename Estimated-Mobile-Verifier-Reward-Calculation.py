@@ -122,17 +122,20 @@ if max_mamaboard_comp == "ASIC board":
     user_max_index = sublist_max_mamaboard_component_index[12]
 
 with open("mbndictprev.json", 'r', encoding='utf-8') as f:
-    mbndictprev = json.load(f)
-
-st.write(mbndictprev)
+    mbn_dict_prev = json.load(f)
 
 with open("gdictprev.json", 'r', encoding='utf-8') as f:
-    gdictprev = json.load(f)
+    g_dict_prev = json.load(f)
 
-st.write(gdictprev)
+st.write(mbn_dict_prev)
 
-fun_dict = {}
-for cur_key in mbndictprev.keys():
-    fun_dict[cur_key] = gdictprev[cur_key] / mbndictprev[cur_key]
+st.write(g_dict_prev)
 
-st.write(fun_dict)
+updated_mbn_dict_prev = mbn_dict_prev.copy()
+updated_mbn_dict_prev[user_max_index] = updated_mbn_dict_prev.get(user_max_index, 0) + 1
+
+updated_g_dict_prev = g_dict_prev.copy()
+updated_g_dict_prev[user_max_index] = updated_g_dict_prev.get(user_max_index, 0) + user_max_height
+
+st.write(updated_mbn_dict_prev)
+st.write(updated_g_dict_prev)
