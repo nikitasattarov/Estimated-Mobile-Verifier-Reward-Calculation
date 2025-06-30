@@ -209,6 +209,8 @@ g_boost_sum_value = sum(ai * bi for ai, bi in zip(g_lst_prev, boost_coef_lst))
 
 u_mv_e = user_max_height * boost_coef_lst[user_max_index] / g_boost_sum_value
 
+st.write(u_mv_e)
+
 t = days_to_seconds(days)
 
 mv_rew_per_sec = calc_mv_rew_per_sec(t, K_r_mv, T, K_M, u_M)
