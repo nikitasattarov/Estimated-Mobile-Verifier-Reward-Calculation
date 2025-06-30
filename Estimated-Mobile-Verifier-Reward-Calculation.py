@@ -187,7 +187,7 @@ with open("gdictprev.json", 'r', encoding='utf-8') as f:
 
 mbn_dict_prev[user_max_index] = mbn_dict_prev[user_max_index] + 1
 
-g_dict_prev[user_max_index] = g_dict_prev[user_max_index] + user_max_height
+g_dict_prev[user_max_index] = g_dict_prev[user_max_index] + math.log(user_max_height)
 
 mbn_lst_prev = [value for key, value in sorted(mbn_dict_prev.items(), key=lambda item: item[0])]
 
@@ -199,4 +199,3 @@ g_boost_sum_value = sum(ai * bi for ai, bi in zip(g_lst_prev, boost_coef_lst))
 
 u_mv_e = user_max_height * boost_coef_lst[user_max_index] / g_boost_sum_value
 
-st.write(u_mv_e)
