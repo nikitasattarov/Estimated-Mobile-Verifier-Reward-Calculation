@@ -75,11 +75,21 @@ def calculate_sum_boost_coefficients(lst, x1, x2, x3, x4, y1, y2, y3, y4, k1, k2
 
     return result
 
+def calc_mv_rew_per_sec(t, K_r_mv, T, K_M, u_M):
+    return K_r_mv * T * (1 + K_M) * (math.exp(-u_M * t) - math.expexp(-u_M * (t + 1)))
+
+K_r_mv = 0.225
+K_M = 1e-5
+tau = 2e9
+T = 1.04e10
 x1, x2, x3, x4 = 0.0, 0.3, 0.7, 1.0
 y1, y2, y3, y4 = 0.0, 0.066696948409, 2.0, 8.0
 k1, k2, k3 = 10.0, 1.894163612445, 17.999995065464
 max_mamaboard_component_index_list = list(range(39))
 user_max_index = 0
+delta_mv_e = 1e5
+
+u_M = -1 / tau * math.log(K_M / (K_M + 1))
 
 st.title("Estimated Mobile Verifier Reward Calculation")
 
@@ -198,4 +208,12 @@ boost_coef_lst = calculate_sum_boost_coefficients(mbn_lst_prev, x1, x2, x3, x4, 
 g_boost_sum_value = sum(ai * bi for ai, bi in zip(g_lst_prev, boost_coef_lst))
 
 u_mv_e = user_max_height * boost_coef_lst[user_max_index] / g_boost_sum_value
+
+t = days_to_seconds(days)
+
+mv_rew_per_sec = calc_mv_rew_per_sec(t, K_r_mv, T, K_M, u_M)
+
+user_reward = delta_mv_e * mv_rew_per_sec * u_mv_e
+
+st.write(user_reward)
 
