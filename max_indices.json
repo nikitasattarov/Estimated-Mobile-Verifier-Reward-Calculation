@@ -32,10 +32,6 @@
     "max_index": 28
   },
   {
-    "max_height": 215,
-    "max_index": -1
-  },
-  {
     "max_height": 201,
     "max_index": 6
   },
@@ -68,10 +64,6 @@
     "max_index": 38
   },
   {
-    "max_height": 114,
-    "max_index": -1
-  },
-  {
     "max_height": 113,
     "max_index": 32
   },
@@ -93,10 +85,6 @@
   },
   {
     "max_height": 96,
-    "max_index": -1
-  },
-  {
-    "max_height": 96,
     "max_index": 38
   },
   {
@@ -114,10 +102,6 @@
   {
     "max_height": 88,
     "max_index": 31
-  },
-  {
-    "max_height": 88,
-    "max_index": -1
   },
   {
     "max_height": 86,
@@ -261,10 +245,6 @@
   },
   {
     "max_height": 50,
-    "max_index": -1
-  },
-  {
-    "max_height": 50,
     "max_index": 22
   },
   {
@@ -416,10 +396,6 @@
     "max_index": 26
   },
   {
-    "max_height": 41,
-    "max_index": -1
-  },
-  {
     "max_height": 40,
     "max_index": 8
   },
@@ -430,10 +406,6 @@
   {
     "max_height": 40,
     "max_index": 23
-  },
-  {
-    "max_height": 40,
-    "max_index": -1
   },
   {
     "max_height": 40,
@@ -465,10 +437,6 @@
   },
   {
     "max_height": 38,
-    "max_index": -1
-  },
-  {
-    "max_height": 38,
     "max_index": 38
   },
   {
@@ -541,10 +509,6 @@
   },
   {
     "max_height": 36,
-    "max_index": -1
-  },
-  {
-    "max_height": 36,
     "max_index": 23
   },
   {
@@ -577,10 +541,6 @@
   },
   {
     "max_height": 35,
-    "max_index": -1
-  },
-  {
-    "max_height": 35,
     "max_index": 30
   },
   {
@@ -594,10 +554,6 @@
   {
     "max_height": 34,
     "max_index": 38
-  },
-  {
-    "max_height": 34,
-    "max_index": -1
   },
   {
     "max_height": 34,
@@ -626,10 +582,6 @@
   {
     "max_height": 33,
     "max_index": 2
-  },
-  {
-    "max_height": 33,
-    "max_index": -1
   },
   {
     "max_height": 33,
@@ -801,10 +753,6 @@
   },
   {
     "max_height": 29,
-    "max_index": -1
-  },
-  {
-    "max_height": 29,
     "max_index": 7
   },
   {
@@ -857,19 +805,11 @@
   },
   {
     "max_height": 28,
-    "max_index": -1
-  },
-  {
-    "max_height": 28,
     "max_index": 23
   },
   {
     "max_height": 28,
     "max_index": 6
-  },
-  {
-    "max_height": 28,
-    "max_index": -1
   },
   {
     "max_height": 28,
@@ -969,10 +909,6 @@
   },
   {
     "max_height": 27,
-    "max_index": -1
-  },
-  {
-    "max_height": 27,
     "max_index": 20
   },
   {
@@ -994,10 +930,6 @@
   {
     "max_height": 26,
     "max_index": 36
-  },
-  {
-    "max_height": 26,
-    "max_index": -1
   },
   {
     "max_height": 26,
@@ -1081,15 +1013,7 @@
   },
   {
     "max_height": 25,
-    "max_index": -1
-  },
-  {
-    "max_height": 25,
     "max_index": 21
-  },
-  {
-    "max_height": 25,
-    "max_index": -1
   },
   {
     "max_height": 25,
@@ -1198,10 +1122,6 @@
   {
     "max_height": 24,
     "max_index": 31
-  },
-  {
-    "max_height": 24,
-    "max_index": -1
   },
   {
     "max_height": 24,
@@ -1361,10 +1281,6 @@
   },
   {
     "max_height": 22,
-    "max_index": -1
-  },
-  {
-    "max_height": 22,
     "max_index": 24
   },
   {
@@ -1481,10 +1397,6 @@
   },
   {
     "max_height": 22,
-    "max_index": -1
-  },
-  {
-    "max_height": 22,
     "max_index": 20
   },
   {
@@ -1550,10 +1462,6 @@
   {
     "max_height": 21,
     "max_index": 21
-  },
-  {
-    "max_height": 21,
-    "max_index": -1
   },
   {
     "max_height": 21,
@@ -1613,10 +1521,6 @@
   },
   {
     "max_height": 21,
-    "max_index": -1
-  },
-  {
-    "max_height": 21,
     "max_index": 6
   },
   {
@@ -1677,10 +1581,6 @@
   },
   {
     "max_height": 20,
-    "max_index": -1
-  },
-  {
-    "max_height": 20,
     "max_index": 35
   },
   {
@@ -1694,10 +1594,6 @@
   {
     "max_height": 20,
     "max_index": 6
-  },
-  {
-    "max_height": 20,
-    "max_index": -1
   },
   {
     "max_height": 20,
@@ -1793,10 +1689,6 @@
   },
   {
     "max_height": 19,
-    "max_index": -1
-  },
-  {
-    "max_height": 19,
     "max_index": 27
   },
   {
@@ -1829,19 +1721,11 @@
   },
   {
     "max_height": 19,
-    "max_index": -1
-  },
-  {
-    "max_height": 19,
     "max_index": 7
   },
   {
     "max_height": 19,
     "max_index": 28
-  },
-  {
-    "max_height": 19,
-    "max_index": -1
   },
   {
     "max_height": 19,
@@ -1913,10 +1797,6 @@
   },
   {
     "max_height": 19,
-    "max_index": -1
-  },
-  {
-    "max_height": 19,
     "max_index": 20
   },
   {
@@ -1950,10 +1830,6 @@
   {
     "max_height": 19,
     "max_index": 11
-  },
-  {
-    "max_height": 19,
-    "max_index": -1
   },
   {
     "max_height": 19,
@@ -2021,10 +1897,6 @@
   },
   {
     "max_height": 18,
-    "max_index": -1
-  },
-  {
-    "max_height": 18,
     "max_index": 20
   },
   {
@@ -2038,10 +1910,6 @@
   {
     "max_height": 18,
     "max_index": 22
-  },
-  {
-    "max_height": 18,
-    "max_index": -1
   },
   {
     "max_height": 18,
@@ -2074,10 +1942,6 @@
   {
     "max_height": 18,
     "max_index": 24
-  },
-  {
-    "max_height": 18,
-    "max_index": -1
   },
   {
     "max_height": 18,
@@ -2129,10 +1993,6 @@
   },
   {
     "max_height": 18,
-    "max_index": -1
-  },
-  {
-    "max_height": 18,
     "max_index": 21
   },
   {
@@ -2169,10 +2029,6 @@
   },
   {
     "max_height": 18,
-    "max_index": -1
-  },
-  {
-    "max_height": 18,
     "max_index": 34
   },
   {
@@ -2206,10 +2062,6 @@
   {
     "max_height": 18,
     "max_index": 11
-  },
-  {
-    "max_height": 18,
-    "max_index": -1
   },
   {
     "max_height": 18,
@@ -2297,10 +2149,6 @@
   },
   {
     "max_height": 17,
-    "max_index": -1
-  },
-  {
-    "max_height": 17,
     "max_index": 22
   },
   {
@@ -2353,10 +2201,6 @@
   },
   {
     "max_height": 17,
-    "max_index": -1
-  },
-  {
-    "max_height": 17,
     "max_index": 21
   },
   {
@@ -2402,10 +2246,6 @@
   {
     "max_height": 17,
     "max_index": 17
-  },
-  {
-    "max_height": 17,
-    "max_index": -1
   },
   {
     "max_height": 17,
@@ -2525,14 +2365,6 @@
   },
   {
     "max_height": 17,
-    "max_index": -1
-  },
-  {
-    "max_height": 17,
-    "max_index": -1
-  },
-  {
-    "max_height": 17,
     "max_index": 6
   },
   {
@@ -2570,10 +2402,6 @@
   {
     "max_height": 17,
     "max_index": 23
-  },
-  {
-    "max_height": 17,
-    "max_index": -1
   },
   {
     "max_height": 17,
@@ -2645,10 +2473,6 @@
   },
   {
     "max_height": 16,
-    "max_index": -1
-  },
-  {
-    "max_height": 16,
     "max_index": 7
   },
   {
@@ -2690,10 +2514,6 @@
   {
     "max_height": 16,
     "max_index": 24
-  },
-  {
-    "max_height": 16,
-    "max_index": -1
   },
   {
     "max_height": 16,
@@ -2786,10 +2606,6 @@
   {
     "max_height": 16,
     "max_index": 29
-  },
-  {
-    "max_height": 16,
-    "max_index": -1
   },
   {
     "max_height": 16,
@@ -2833,10 +2649,6 @@
   },
   {
     "max_height": 16,
-    "max_index": -1
-  },
-  {
-    "max_height": 16,
     "max_index": 24
   },
   {
@@ -2869,10 +2681,6 @@
   },
   {
     "max_height": 15,
-    "max_index": -1
-  },
-  {
-    "max_height": 15,
     "max_index": 17
   },
   {
@@ -2890,10 +2698,6 @@
   {
     "max_height": 15,
     "max_index": 31
-  },
-  {
-    "max_height": 15,
-    "max_index": -1
   },
   {
     "max_height": 15,
@@ -2921,10 +2725,6 @@
   },
   {
     "max_height": 15,
-    "max_index": -1
-  },
-  {
-    "max_height": 15,
     "max_index": 6
   },
   {
@@ -2946,10 +2746,6 @@
   {
     "max_height": 15,
     "max_index": 23
-  },
-  {
-    "max_height": 15,
-    "max_index": -1
   },
   {
     "max_height": 15,
@@ -3041,10 +2837,6 @@
   },
   {
     "max_height": 15,
-    "max_index": -1
-  },
-  {
-    "max_height": 15,
     "max_index": 35
   },
   {
@@ -3054,14 +2846,6 @@
   {
     "max_height": 15,
     "max_index": 23
-  },
-  {
-    "max_height": 15,
-    "max_index": -1
-  },
-  {
-    "max_height": 15,
-    "max_index": -1
   },
   {
     "max_height": 15,
@@ -3081,15 +2865,7 @@
   },
   {
     "max_height": 15,
-    "max_index": -1
-  },
-  {
-    "max_height": 15,
     "max_index": 7
-  },
-  {
-    "max_height": 15,
-    "max_index": -1
   },
   {
     "max_height": 15,
@@ -3098,10 +2874,6 @@
   {
     "max_height": 15,
     "max_index": 8
-  },
-  {
-    "max_height": 15,
-    "max_index": -1
   },
   {
     "max_height": 15,
@@ -3169,15 +2941,7 @@
   },
   {
     "max_height": 15,
-    "max_index": -1
-  },
-  {
-    "max_height": 15,
     "max_index": 9
-  },
-  {
-    "max_height": 15,
-    "max_index": -1
   },
   {
     "max_height": 15,
@@ -3233,14 +2997,6 @@
   },
   {
     "max_height": 14,
-    "max_index": -1
-  },
-  {
-    "max_height": 14,
-    "max_index": -1
-  },
-  {
-    "max_height": 14,
     "max_index": 24
   },
   {
@@ -3262,10 +3018,6 @@
   {
     "max_height": 14,
     "max_index": 21
-  },
-  {
-    "max_height": 14,
-    "max_index": -1
   },
   {
     "max_height": 14,
@@ -3309,19 +3061,11 @@
   },
   {
     "max_height": 14,
-    "max_index": -1
-  },
-  {
-    "max_height": 14,
     "max_index": 24
   },
   {
     "max_height": 14,
     "max_index": 26
-  },
-  {
-    "max_height": 14,
-    "max_index": -1
   },
   {
     "max_height": 14,
@@ -3409,10 +3153,6 @@
   },
   {
     "max_height": 14,
-    "max_index": -1
-  },
-  {
-    "max_height": 14,
     "max_index": 10
   },
   {
@@ -3585,10 +3325,6 @@
   },
   {
     "max_height": 14,
-    "max_index": -1
-  },
-  {
-    "max_height": 14,
     "max_index": 24
   },
   {
@@ -3606,10 +3342,6 @@
   {
     "max_height": 14,
     "max_index": 10
-  },
-  {
-    "max_height": 14,
-    "max_index": -1
   },
   {
     "max_height": 14,
@@ -3633,10 +3365,6 @@
   },
   {
     "max_height": 14,
-    "max_index": -1
-  },
-  {
-    "max_height": 14,
     "max_index": 24
   },
   {
@@ -3646,10 +3374,6 @@
   {
     "max_height": 14,
     "max_index": 24
-  },
-  {
-    "max_height": 14,
-    "max_index": -1
   },
   {
     "max_height": 14,
@@ -3749,10 +3473,6 @@
   },
   {
     "max_height": 13,
-    "max_index": -1
-  },
-  {
-    "max_height": 13,
     "max_index": 23
   },
   {
@@ -3761,19 +3481,7 @@
   },
   {
     "max_height": 13,
-    "max_index": -1
-  },
-  {
-    "max_height": 13,
-    "max_index": -1
-  },
-  {
-    "max_height": 13,
     "max_index": 22
-  },
-  {
-    "max_height": 13,
-    "max_index": -1
   },
   {
     "max_height": 13,
@@ -3810,10 +3518,6 @@
   {
     "max_height": 13,
     "max_index": 16
-  },
-  {
-    "max_height": 13,
-    "max_index": -1
   },
   {
     "max_height": 13,
@@ -3865,10 +3569,6 @@
   },
   {
     "max_height": 13,
-    "max_index": -1
-  },
-  {
-    "max_height": 13,
     "max_index": 29
   },
   {
@@ -3885,19 +3585,11 @@
   },
   {
     "max_height": 13,
-    "max_index": -1
-  },
-  {
-    "max_height": 13,
     "max_index": 23
   },
   {
     "max_height": 13,
     "max_index": 5
-  },
-  {
-    "max_height": 13,
-    "max_index": -1
   },
   {
     "max_height": 13,
@@ -3989,10 +3681,6 @@
   },
   {
     "max_height": 13,
-    "max_index": -1
-  },
-  {
-    "max_height": 13,
     "max_index": 24
   },
   {
@@ -4034,10 +3722,6 @@
   {
     "max_height": 13,
     "max_index": 33
-  },
-  {
-    "max_height": 13,
-    "max_index": -1
   },
   {
     "max_height": 13,
@@ -4125,10 +3809,6 @@
   },
   {
     "max_height": 13,
-    "max_index": -1
-  },
-  {
-    "max_height": 13,
     "max_index": 27
   },
   {
@@ -4162,10 +3842,6 @@
   {
     "max_height": 13,
     "max_index": 30
-  },
-  {
-    "max_height": 13,
-    "max_index": -1
   },
   {
     "max_height": 13,
@@ -4181,10 +3857,6 @@
   },
   {
     "max_height": 13,
-    "max_index": -1
-  },
-  {
-    "max_height": 13,
     "max_index": 30
   },
   {
@@ -4213,10 +3885,6 @@
   },
   {
     "max_height": 13,
-    "max_index": -1
-  },
-  {
-    "max_height": 13,
     "max_index": 10
   },
   {
@@ -4226,10 +3894,6 @@
   {
     "max_height": 13,
     "max_index": 36
-  },
-  {
-    "max_height": 13,
-    "max_index": -1
   },
   {
     "max_height": 13,
@@ -4273,10 +3937,6 @@
   },
   {
     "max_height": 13,
-    "max_index": -1
-  },
-  {
-    "max_height": 13,
     "max_index": 17
   },
   {
@@ -4305,19 +3965,11 @@
   },
   {
     "max_height": 12,
-    "max_index": -1
-  },
-  {
-    "max_height": 12,
     "max_index": 5
   },
   {
     "max_height": 12,
     "max_index": 22
-  },
-  {
-    "max_height": 12,
-    "max_index": -1
   },
   {
     "max_height": 12,
@@ -4369,10 +4021,6 @@
   },
   {
     "max_height": 12,
-    "max_index": -1
-  },
-  {
-    "max_height": 12,
     "max_index": 24
   },
   {
@@ -4417,10 +4065,6 @@
   },
   {
     "max_height": 12,
-    "max_index": -1
-  },
-  {
-    "max_height": 12,
     "max_index": 24
   },
   {
@@ -4434,10 +4078,6 @@
   {
     "max_height": 12,
     "max_index": 27
-  },
-  {
-    "max_height": 12,
-    "max_index": -1
   },
   {
     "max_height": 12,
@@ -4469,10 +4109,6 @@
   },
   {
     "max_height": 12,
-    "max_index": -1
-  },
-  {
-    "max_height": 12,
     "max_index": 24
   },
   {
@@ -4493,10 +4129,6 @@
   },
   {
     "max_height": 12,
-    "max_index": -1
-  },
-  {
-    "max_height": 12,
     "max_index": 8
   },
   {
@@ -4506,10 +4138,6 @@
   {
     "max_height": 12,
     "max_index": 10
-  },
-  {
-    "max_height": 12,
-    "max_index": -1
   },
   {
     "max_height": 12,
@@ -4570,14 +4198,6 @@
   {
     "max_height": 12,
     "max_index": 5
-  },
-  {
-    "max_height": 12,
-    "max_index": -1
-  },
-  {
-    "max_height": 12,
-    "max_index": -1
   },
   {
     "max_height": 12,
@@ -4642,10 +4262,6 @@
   {
     "max_height": 12,
     "max_index": 6
-  },
-  {
-    "max_height": 12,
-    "max_index": -1
   },
   {
     "max_height": 12,
@@ -4681,10 +4297,6 @@
   },
   {
     "max_height": 12,
-    "max_index": -1
-  },
-  {
-    "max_height": 12,
     "max_index": 24
   },
   {
@@ -4746,10 +4358,6 @@
   {
     "max_height": 12,
     "max_index": 16
-  },
-  {
-    "max_height": 12,
-    "max_index": -1
   },
   {
     "max_height": 12,
@@ -4961,19 +4569,7 @@
   },
   {
     "max_height": 12,
-    "max_index": -1
-  },
-  {
-    "max_height": 12,
     "max_index": 18
-  },
-  {
-    "max_height": 12,
-    "max_index": -1
-  },
-  {
-    "max_height": 12,
-    "max_index": -1
   },
   {
     "max_height": 12,
@@ -5002,10 +4598,6 @@
   {
     "max_height": 12,
     "max_index": 21
-  },
-  {
-    "max_height": 12,
-    "max_index": -1
   },
   {
     "max_height": 12,
@@ -5061,19 +4653,11 @@
   },
   {
     "max_height": 12,
-    "max_index": -1
-  },
-  {
-    "max_height": 12,
     "max_index": 22
   },
   {
     "max_height": 12,
     "max_index": 24
-  },
-  {
-    "max_height": 12,
-    "max_index": -1
   },
   {
     "max_height": 12,
@@ -5157,10 +4741,6 @@
   },
   {
     "max_height": 12,
-    "max_index": -1
-  },
-  {
-    "max_height": 12,
     "max_index": 8
   },
   {
@@ -5206,10 +4786,6 @@
   {
     "max_height": 12,
     "max_index": 7
-  },
-  {
-    "max_height": 12,
-    "max_index": -1
   },
   {
     "max_height": 12,
@@ -5261,10 +4837,6 @@
   },
   {
     "max_height": 11,
-    "max_index": -1
-  },
-  {
-    "max_height": 11,
     "max_index": 32
   },
   {
@@ -5274,18 +4846,6 @@
   {
     "max_height": 11,
     "max_index": 16
-  },
-  {
-    "max_height": 11,
-    "max_index": -1
-  },
-  {
-    "max_height": 11,
-    "max_index": -1
-  },
-  {
-    "max_height": 11,
-    "max_index": -1
   },
   {
     "max_height": 11,
@@ -5321,19 +4881,7 @@
   },
   {
     "max_height": 11,
-    "max_index": -1
-  },
-  {
-    "max_height": 11,
     "max_index": 7
-  },
-  {
-    "max_height": 11,
-    "max_index": -1
-  },
-  {
-    "max_height": 11,
-    "max_index": -1
   },
   {
     "max_height": 11,
@@ -5377,10 +4925,6 @@
   },
   {
     "max_height": 11,
-    "max_index": -1
-  },
-  {
-    "max_height": 11,
     "max_index": 22
   },
   {
@@ -5434,14 +4978,6 @@
   {
     "max_height": 11,
     "max_index": 31
-  },
-  {
-    "max_height": 11,
-    "max_index": -1
-  },
-  {
-    "max_height": 11,
-    "max_index": -1
   },
   {
     "max_height": 11,
@@ -5481,10 +5017,6 @@
   },
   {
     "max_height": 11,
-    "max_index": -1
-  },
-  {
-    "max_height": 11,
     "max_index": 18
   },
   {
@@ -5509,15 +5041,7 @@
   },
   {
     "max_height": 11,
-    "max_index": -1
-  },
-  {
-    "max_height": 11,
     "max_index": 30
-  },
-  {
-    "max_height": 11,
-    "max_index": -1
   },
   {
     "max_height": 11,
@@ -5557,14 +5081,6 @@
   },
   {
     "max_height": 11,
-    "max_index": -1
-  },
-  {
-    "max_height": 11,
-    "max_index": -1
-  },
-  {
-    "max_height": 11,
     "max_index": 6
   },
   {
@@ -5582,10 +5098,6 @@
   {
     "max_height": 11,
     "max_index": 24
-  },
-  {
-    "max_height": 11,
-    "max_index": -1
   },
   {
     "max_height": 11,
@@ -5653,10 +5165,6 @@
   },
   {
     "max_height": 11,
-    "max_index": -1
-  },
-  {
-    "max_height": 11,
     "max_index": 22
   },
   {
@@ -5685,10 +5193,6 @@
   },
   {
     "max_height": 11,
-    "max_index": -1
-  },
-  {
-    "max_height": 11,
     "max_index": 11
   },
   {
@@ -5705,10 +5209,6 @@
   },
   {
     "max_height": 11,
-    "max_index": -1
-  },
-  {
-    "max_height": 11,
     "max_index": 22
   },
   {
@@ -5722,10 +5222,6 @@
   {
     "max_height": 11,
     "max_index": 22
-  },
-  {
-    "max_height": 11,
-    "max_index": -1
   },
   {
     "max_height": 11,
@@ -5745,19 +5241,11 @@
   },
   {
     "max_height": 11,
-    "max_index": -1
-  },
-  {
-    "max_height": 11,
     "max_index": 35
   },
   {
     "max_height": 11,
     "max_index": 37
-  },
-  {
-    "max_height": 11,
-    "max_index": -1
   },
   {
     "max_height": 11,
@@ -5845,10 +5333,6 @@
   },
   {
     "max_height": 11,
-    "max_index": -1
-  },
-  {
-    "max_height": 11,
     "max_index": 26
   },
   {
@@ -5873,10 +5357,6 @@
   },
   {
     "max_height": 11,
-    "max_index": -1
-  },
-  {
-    "max_height": 11,
     "max_index": 29
   },
   {
@@ -5885,15 +5365,7 @@
   },
   {
     "max_height": 11,
-    "max_index": -1
-  },
-  {
-    "max_height": 11,
     "max_index": 24
-  },
-  {
-    "max_height": 11,
-    "max_index": -1
   },
   {
     "max_height": 11,
@@ -5905,23 +5377,11 @@
   },
   {
     "max_height": 11,
-    "max_index": -1
-  },
-  {
-    "max_height": 11,
     "max_index": 7
   },
   {
     "max_height": 11,
     "max_index": 20
-  },
-  {
-    "max_height": 11,
-    "max_index": -1
-  },
-  {
-    "max_height": 11,
-    "max_index": -1
   },
   {
     "max_height": 11,
@@ -6013,10 +5473,6 @@
   },
   {
     "max_height": 10,
-    "max_index": -1
-  },
-  {
-    "max_height": 10,
     "max_index": 21
   },
   {
@@ -6030,10 +5486,6 @@
   {
     "max_height": 10,
     "max_index": 29
-  },
-  {
-    "max_height": 10,
-    "max_index": -1
   },
   {
     "max_height": 10,
@@ -6193,10 +5645,6 @@
   },
   {
     "max_height": 10,
-    "max_index": -1
-  },
-  {
-    "max_height": 10,
     "max_index": 17
   },
   {
@@ -6233,10 +5681,6 @@
   },
   {
     "max_height": 10,
-    "max_index": -1
-  },
-  {
-    "max_height": 10,
     "max_index": 7
   },
   {
@@ -6265,19 +5709,11 @@
   },
   {
     "max_height": 10,
-    "max_index": -1
-  },
-  {
-    "max_height": 10,
     "max_index": 24
   },
   {
     "max_height": 10,
     "max_index": 34
-  },
-  {
-    "max_height": 10,
-    "max_index": -1
   },
   {
     "max_height": 10,
@@ -6361,10 +5797,6 @@
   },
   {
     "max_height": 10,
-    "max_index": -1
-  },
-  {
-    "max_height": 10,
     "max_index": 13
   },
   {
@@ -6378,10 +5810,6 @@
   {
     "max_height": 10,
     "max_index": 27
-  },
-  {
-    "max_height": 10,
-    "max_index": -1
   },
   {
     "max_height": 10,
@@ -6437,10 +5865,6 @@
   },
   {
     "max_height": 10,
-    "max_index": -1
-  },
-  {
-    "max_height": 10,
     "max_index": 29
   },
   {
@@ -6470,10 +5894,6 @@
   {
     "max_height": 10,
     "max_index": 24
-  },
-  {
-    "max_height": 10,
-    "max_index": -1
   },
   {
     "max_height": 10,
@@ -6545,10 +5965,6 @@
   },
   {
     "max_height": 10,
-    "max_index": -1
-  },
-  {
-    "max_height": 10,
     "max_index": 32
   },
   {
@@ -6613,10 +6029,6 @@
   },
   {
     "max_height": 10,
-    "max_index": -1
-  },
-  {
-    "max_height": 10,
     "max_index": 8
   },
   {
@@ -6641,10 +6053,6 @@
   },
   {
     "max_height": 10,
-    "max_index": -1
-  },
-  {
-    "max_height": 10,
     "max_index": 7
   },
   {
@@ -6662,10 +6070,6 @@
   {
     "max_height": 10,
     "max_index": 8
-  },
-  {
-    "max_height": 10,
-    "max_index": -1
   },
   {
     "max_height": 10,
@@ -6701,10 +6105,6 @@
   },
   {
     "max_height": 10,
-    "max_index": -1
-  },
-  {
-    "max_height": 10,
     "max_index": 20
   },
   {
@@ -6714,10 +6114,6 @@
   {
     "max_height": 10,
     "max_index": 28
-  },
-  {
-    "max_height": 10,
-    "max_index": -1
   },
   {
     "max_height": 10,
@@ -6789,10 +6185,6 @@
   },
   {
     "max_height": 10,
-    "max_index": -1
-  },
-  {
-    "max_height": 10,
     "max_index": 18
   },
   {
@@ -6821,10 +6213,6 @@
   },
   {
     "max_height": 10,
-    "max_index": -1
-  },
-  {
-    "max_height": 10,
     "max_index": 24
   },
   {
@@ -6846,10 +6234,6 @@
   {
     "max_height": 10,
     "max_index": 24
-  },
-  {
-    "max_height": 10,
-    "max_index": -1
   },
   {
     "max_height": 10,
@@ -6893,19 +6277,11 @@
   },
   {
     "max_height": 10,
-    "max_index": -1
-  },
-  {
-    "max_height": 10,
     "max_index": 23
   },
   {
     "max_height": 10,
     "max_index": 29
-  },
-  {
-    "max_height": 10,
-    "max_index": -1
   },
   {
     "max_height": 10,
@@ -7021,10 +6397,6 @@
   },
   {
     "max_height": 9,
-    "max_index": -1
-  },
-  {
-    "max_height": 9,
     "max_index": 17
   },
   {
@@ -7034,10 +6406,6 @@
   {
     "max_height": 9,
     "max_index": 15
-  },
-  {
-    "max_height": 9,
-    "max_index": -1
   },
   {
     "max_height": 9,
@@ -7097,10 +6465,6 @@
   },
   {
     "max_height": 9,
-    "max_index": -1
-  },
-  {
-    "max_height": 9,
     "max_index": 8
   },
   {
@@ -7137,10 +6501,6 @@
   },
   {
     "max_height": 9,
-    "max_index": -1
-  },
-  {
-    "max_height": 9,
     "max_index": 17
   },
   {
@@ -7161,10 +6521,6 @@
   },
   {
     "max_height": 9,
-    "max_index": -1
-  },
-  {
-    "max_height": 9,
     "max_index": 21
   },
   {
@@ -7174,14 +6530,6 @@
   {
     "max_height": 9,
     "max_index": 24
-  },
-  {
-    "max_height": 9,
-    "max_index": -1
-  },
-  {
-    "max_height": 9,
-    "max_index": -1
   },
   {
     "max_height": 9,
@@ -7198,10 +6546,6 @@
   {
     "max_height": 9,
     "max_index": 8
-  },
-  {
-    "max_height": 9,
-    "max_index": -1
   },
   {
     "max_height": 9,
@@ -7281,10 +6625,6 @@
   },
   {
     "max_height": 9,
-    "max_index": -1
-  },
-  {
-    "max_height": 9,
     "max_index": 16
   },
   {
@@ -7342,10 +6682,6 @@
   {
     "max_height": 9,
     "max_index": 24
-  },
-  {
-    "max_height": 9,
-    "max_index": -1
   },
   {
     "max_height": 9,
@@ -7421,23 +6757,11 @@
   },
   {
     "max_height": 9,
-    "max_index": -1
-  },
-  {
-    "max_height": 9,
-    "max_index": -1
-  },
-  {
-    "max_height": 9,
     "max_index": 22
   },
   {
     "max_height": 9,
     "max_index": 16
-  },
-  {
-    "max_height": 9,
-    "max_index": -1
   },
   {
     "max_height": 9,
@@ -7481,10 +6805,6 @@
   },
   {
     "max_height": 9,
-    "max_index": -1
-  },
-  {
-    "max_height": 9,
     "max_index": 21
   },
   {
@@ -7498,10 +6818,6 @@
   {
     "max_height": 9,
     "max_index": 27
-  },
-  {
-    "max_height": 9,
-    "max_index": -1
   },
   {
     "max_height": 9,
@@ -7561,10 +6877,6 @@
   },
   {
     "max_height": 9,
-    "max_index": -1
-  },
-  {
-    "max_height": 9,
     "max_index": 7
   },
   {
@@ -7581,15 +6893,7 @@
   },
   {
     "max_height": 9,
-    "max_index": -1
-  },
-  {
-    "max_height": 9,
     "max_index": 8
-  },
-  {
-    "max_height": 9,
-    "max_index": -1
   },
   {
     "max_height": 9,
@@ -7737,10 +7041,6 @@
   },
   {
     "max_height": 9,
-    "max_index": -1
-  },
-  {
-    "max_height": 9,
     "max_index": 23
   },
   {
@@ -7765,27 +7065,11 @@
   },
   {
     "max_height": 9,
-    "max_index": -1
-  },
-  {
-    "max_height": 9,
     "max_index": 22
   },
   {
     "max_height": 9,
-    "max_index": -1
-  },
-  {
-    "max_height": 9,
-    "max_index": -1
-  },
-  {
-    "max_height": 9,
     "max_index": 26
-  },
-  {
-    "max_height": 9,
-    "max_index": -1
   },
   {
     "max_height": 9,
@@ -7881,10 +7165,6 @@
   },
   {
     "max_height": 9,
-    "max_index": -1
-  },
-  {
-    "max_height": 9,
     "max_index": 24
   },
   {
@@ -7970,10 +7250,6 @@
   {
     "max_height": 9,
     "max_index": 11
-  },
-  {
-    "max_height": 9,
-    "max_index": -1
   },
   {
     "max_height": 9,
@@ -8161,10 +7437,6 @@
   },
   {
     "max_height": 9,
-    "max_index": -1
-  },
-  {
-    "max_height": 9,
     "max_index": 22
   },
   {
@@ -8182,10 +7454,6 @@
   {
     "max_height": 9,
     "max_index": 21
-  },
-  {
-    "max_height": 9,
-    "max_index": -1
   },
   {
     "max_height": 9,
@@ -8214,10 +7482,6 @@
   {
     "max_height": 9,
     "max_index": 21
-  },
-  {
-    "max_height": 9,
-    "max_index": -1
   },
   {
     "max_height": 9,
@@ -8332,20 +7596,12 @@
     "max_index": 29
   },
   {
-    "max_height": 9,
-    "max_index": -1
-  },
-  {
     "max_height": 8,
     "max_index": 23
   },
   {
     "max_height": 8,
     "max_index": 20
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -8369,10 +7625,6 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 10
   },
   {
@@ -8385,14 +7637,6 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 29
   },
   {
@@ -8402,10 +7646,6 @@
   {
     "max_height": 8,
     "max_index": 24
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -8501,10 +7741,6 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 22
   },
   {
@@ -8549,19 +7785,7 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 22
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -8574,10 +7798,6 @@
   {
     "max_height": 8,
     "max_index": 20
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -8629,10 +7849,6 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 26
   },
   {
@@ -8657,15 +7873,7 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 24
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -8674,10 +7882,6 @@
   {
     "max_height": 8,
     "max_index": 11
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -8706,14 +7910,6 @@
   {
     "max_height": 8,
     "max_index": 10
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -8765,10 +7961,6 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 8
   },
   {
@@ -8794,10 +7986,6 @@
   {
     "max_height": 8,
     "max_index": 7
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -8821,10 +8009,6 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 11
   },
   {
@@ -8842,10 +8026,6 @@
   {
     "max_height": 8,
     "max_index": 29
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -8882,10 +8062,6 @@
   {
     "max_height": 8,
     "max_index": 10
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -8929,15 +8105,7 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 7
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -8989,10 +8157,6 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 17
   },
   {
@@ -9018,10 +8182,6 @@
   {
     "max_height": 8,
     "max_index": 33
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -9133,10 +8293,6 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 24
   },
   {
@@ -9154,10 +8310,6 @@
   {
     "max_height": 8,
     "max_index": 10
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -9210,10 +8362,6 @@
   {
     "max_height": 8,
     "max_index": 24
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -9345,15 +8493,7 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 24
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -9362,10 +8502,6 @@
   {
     "max_height": 8,
     "max_index": 14
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -9385,10 +8521,6 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 29
   },
   {
@@ -9397,19 +8529,11 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 11
   },
   {
     "max_height": 8,
     "max_index": 13
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -9429,35 +8553,7 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 28
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -9474,10 +8570,6 @@
   {
     "max_height": 8,
     "max_index": 29
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -9514,10 +8606,6 @@
   {
     "max_height": 8,
     "max_index": 24
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -9589,10 +8677,6 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 30
   },
   {
@@ -9625,10 +8709,6 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 10
   },
   {
@@ -9641,19 +8721,11 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 7
   },
   {
     "max_height": 8,
     "max_index": 7
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -9666,10 +8738,6 @@
   {
     "max_height": 8,
     "max_index": 7
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -9686,10 +8754,6 @@
   {
     "max_height": 8,
     "max_index": 27
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -9710,10 +8774,6 @@
   {
     "max_height": 8,
     "max_index": 24
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -9765,14 +8825,6 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 22
   },
   {
@@ -9786,10 +8838,6 @@
   {
     "max_height": 8,
     "max_index": 23
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -9849,10 +8897,6 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 20
   },
   {
@@ -9877,14 +8921,6 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 7
   },
   {
@@ -9894,10 +8930,6 @@
   {
     "max_height": 8,
     "max_index": 22
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -9925,15 +8957,7 @@
   },
   {
     "max_height": 8,
-    "max_index": -1
-  },
-  {
-    "max_height": 8,
     "max_index": 10
-  },
-  {
-    "max_height": 8,
-    "max_index": -1
   },
   {
     "max_height": 8,
@@ -10001,10 +9025,6 @@
   },
   {
     "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
     "max_index": 7
   },
   {
@@ -10018,14 +9038,6 @@
   {
     "max_height": 7,
     "max_index": 22
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -10069,14 +9081,6 @@
   },
   {
     "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
     "max_index": 22
   },
   {
@@ -10086,10 +9090,6 @@
   {
     "max_height": 7,
     "max_index": 21
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -10157,10 +9157,6 @@
   },
   {
     "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
     "max_index": 23
   },
   {
@@ -10182,10 +9178,6 @@
   {
     "max_height": 7,
     "max_index": 20
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -10241,10 +9233,6 @@
   },
   {
     "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
     "max_index": 24
   },
   {
@@ -10281,10 +9269,6 @@
   },
   {
     "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
     "max_index": 31
   },
   {
@@ -10294,10 +9278,6 @@
   {
     "max_height": 7,
     "max_index": 30
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -10314,10 +9294,6 @@
   {
     "max_height": 7,
     "max_index": 11
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -10342,10 +9318,6 @@
   {
     "max_height": 7,
     "max_index": 19
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -10390,14 +9362,6 @@
   {
     "max_height": 7,
     "max_index": 11
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -10453,15 +9417,7 @@
   },
   {
     "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
     "max_index": 23
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -10621,18 +9577,6 @@
   },
   {
     "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
     "max_index": 22
   },
   {
@@ -10701,19 +9645,11 @@
   },
   {
     "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
     "max_index": 18
   },
   {
     "max_height": 7,
     "max_index": 24
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -10749,19 +9685,11 @@
   },
   {
     "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
     "max_index": 27
   },
   {
     "max_height": 7,
     "max_index": 7
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -10945,10 +9873,6 @@
   },
   {
     "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
     "max_index": 21
   },
   {
@@ -10966,10 +9890,6 @@
   {
     "max_height": 7,
     "max_index": 21
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -10994,10 +9914,6 @@
   {
     "max_height": 7,
     "max_index": 18
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -11066,14 +9982,6 @@
   {
     "max_height": 7,
     "max_index": 24
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -11141,10 +10049,6 @@
   },
   {
     "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
     "max_index": 4
   },
   {
@@ -11169,10 +10073,6 @@
   },
   {
     "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
     "max_index": 22
   },
   {
@@ -11193,19 +10093,11 @@
   },
   {
     "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
     "max_index": 11
   },
   {
     "max_height": 7,
     "max_index": 24
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -11226,10 +10118,6 @@
   {
     "max_height": 7,
     "max_index": 16
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -11262,14 +10150,6 @@
   {
     "max_height": 7,
     "max_index": 20
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -11310,10 +10190,6 @@
   {
     "max_height": 7,
     "max_index": 29
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -11410,10 +10286,6 @@
   {
     "max_height": 7,
     "max_index": 11
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -11477,19 +10349,11 @@
   },
   {
     "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
     "max_index": 23
   },
   {
     "max_height": 7,
     "max_index": 24
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -11505,15 +10369,7 @@
   },
   {
     "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
     "max_index": 30
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -11581,23 +10437,7 @@
   },
   {
     "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
     "max_index": 22
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -11610,10 +10450,6 @@
   {
     "max_height": 7,
     "max_index": 24
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -11705,19 +10541,7 @@
   },
   {
     "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
     "max_index": 27
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -11765,14 +10589,6 @@
   },
   {
     "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
-  },
-  {
-    "max_height": 7,
     "max_index": 23
   },
   {
@@ -11790,10 +10606,6 @@
   {
     "max_height": 7,
     "max_index": 26
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -11818,10 +10630,6 @@
   {
     "max_height": 7,
     "max_index": 18
-  },
-  {
-    "max_height": 7,
-    "max_index": -1
   },
   {
     "max_height": 7,
@@ -11893,10 +10701,6 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 17
   },
   {
@@ -11921,10 +10725,6 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 28
   },
   {
@@ -11934,10 +10734,6 @@
   {
     "max_height": 6,
     "max_index": 9
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -11957,15 +10753,7 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 10
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -11985,10 +10773,6 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 6
   },
   {
@@ -11998,10 +10782,6 @@
   {
     "max_height": 6,
     "max_index": 9
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -12037,15 +10817,7 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 27
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -12062,10 +10834,6 @@
   {
     "max_height": 6,
     "max_index": 8
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -12189,10 +10957,6 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 24
   },
   {
@@ -12229,10 +10993,6 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 23
   },
   {
@@ -12254,10 +11014,6 @@
   {
     "max_height": 6,
     "max_index": 7
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -12321,15 +11077,7 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 22
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -12469,15 +11217,7 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 22
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -12501,10 +11241,6 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 22
   },
   {
@@ -12518,10 +11254,6 @@
   {
     "max_height": 6,
     "max_index": 6
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -12545,14 +11277,6 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 24
   },
   {
@@ -12561,15 +11285,7 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 17
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -12613,10 +11329,6 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 23
   },
   {
@@ -12637,18 +11349,6 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 19
   },
   {
@@ -12658,10 +11358,6 @@
   {
     "max_height": 6,
     "max_index": 24
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -12681,15 +11377,7 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 22
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -12737,10 +11425,6 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 23
   },
   {
@@ -12777,15 +11461,7 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 11
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -12821,14 +11497,6 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 26
   },
   {
@@ -12846,10 +11514,6 @@
   {
     "max_height": 6,
     "max_index": 24
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -12885,15 +11549,7 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 24
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -12957,19 +11613,11 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 10
   },
   {
     "max_height": 6,
     "max_index": 24
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -13017,10 +11665,6 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 7
   },
   {
@@ -13029,19 +11673,11 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 9
   },
   {
     "max_height": 6,
     "max_index": 24
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -13074,10 +11710,6 @@
   {
     "max_height": 6,
     "max_index": 9
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -13150,10 +11782,6 @@
   {
     "max_height": 6,
     "max_index": 14
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -13185,14 +11813,6 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 10
   },
   {
@@ -13241,10 +11861,6 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 33
   },
   {
@@ -13258,10 +11874,6 @@
   {
     "max_height": 6,
     "max_index": 11
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -13282,10 +11894,6 @@
   {
     "max_height": 6,
     "max_index": 19
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -13318,14 +11926,6 @@
   {
     "max_height": 6,
     "max_index": 2
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -13401,14 +12001,6 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 7
   },
   {
@@ -13421,23 +12013,11 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 22
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 7
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -13517,23 +12097,11 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 21
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 24
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -13546,10 +12114,6 @@
   {
     "max_height": 6,
     "max_index": 29
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -13574,10 +12138,6 @@
   {
     "max_height": 6,
     "max_index": 22
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -13617,10 +12177,6 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 10
   },
   {
@@ -13630,10 +12186,6 @@
   {
     "max_height": 6,
     "max_index": 7
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -13693,15 +12245,7 @@
   },
   {
     "max_height": 6,
-    "max_index": -1
-  },
-  {
-    "max_height": 6,
     "max_index": 31
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
@@ -13730,10 +12274,6 @@
   {
     "max_height": 6,
     "max_index": 29
-  },
-  {
-    "max_height": 6,
-    "max_index": -1
   },
   {
     "max_height": 6,
