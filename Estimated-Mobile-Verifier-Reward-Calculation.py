@@ -74,15 +74,12 @@ user_max_height = st.number_input(
 
 if max_mamaboard_lvl == 1:
     sublist_max_mamaboard_component_index = max_mamaboard_component_index_list[:13]
-    st.write(sublist_max_mamaboard_component_index)
 
 if max_mamaboard_lvl == 2:
     sublist_max_mamaboard_component_index = max_mamaboard_component_index_list[13:26]
-    st.write(sublist_max_mamaboard_component_index)
 
 if max_mamaboard_lvl == 3:
     sublist_max_mamaboard_component_index = max_mamaboard_component_index_list[-13:]
-    st.write(sublist_max_mamaboard_component_index)
 
 if max_mamaboard_lvl == "Battery Power":
     user_max_index = sublist_max_mamaboard_component_index[0]
@@ -122,3 +119,5 @@ if max_mamaboard_lvl == "M2NVME":
 
 if max_mamaboard_lvl == "ASIC board":
     user_max_index = sublist_max_mamaboard_component_index[12]
+
+st.write(user_max_index)
