@@ -130,3 +130,9 @@ with open("gdictprev.json", 'r', encoding='utf-8') as f:
     gdictprev = json.load(f)
 
 st.write(gdictprev)
+
+fun_dict = {}
+for cur_key in mbndictprev.keys():
+    fun_dict[cur_key] = gdictprev[cur_key] / mbndictprev[cur_key]
+
+st.write(fun_dict)
