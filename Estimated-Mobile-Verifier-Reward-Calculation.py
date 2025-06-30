@@ -82,43 +82,43 @@ if max_mamaboard_lvl == 2:
 if max_mamaboard_lvl == 3:
     sublist_max_mamaboard_component_index = max_mamaboard_component_index_list[-13:]
 
-if max_mamaboard_lvl == "Battery Power":
+if max_mamaboard_comp == "Battery Power":
     user_max_index = sublist_max_mamaboard_component_index[0]
 
-if max_mamaboard_lvl == "Network Card":
+if max_mamaboard_comp == "Network Card":
     user_max_index = sublist_max_mamaboard_component_index[1]
 
-if max_mamaboard_lvl == "Power Supply":
+if max_mamaboard_comp == "Power Supply":
     user_max_index = sublist_max_mamaboard_component_index[2]
 
-if max_mamaboard_lvl == "Video Card":
+if max_mamaboard_comp == "Video Card":
     user_max_index = sublist_max_mamaboard_component_index[3]
 
-if max_mamaboard_lvl == "RAM":
+if max_mamaboard_comp == "RAM":
     user_max_index = sublist_max_mamaboard_component_index[4]
 
-if max_mamaboard_lvl == "Monitor":
+if max_mamaboard_comp == "Monitor":
     user_max_index = sublist_max_mamaboard_component_index[5]
 
-if max_mamaboard_lvl == "IPMI":
+if max_mamaboard_comp == "IPMI":
     user_max_index = sublist_max_mamaboard_component_index[6]
 
-if max_mamaboard_lvl == "HDD":
+if max_mamaboard_comp == "HDD":
     user_max_index = sublist_max_mamaboard_component_index[7]
 
-if max_mamaboard_lvl == "UPS":
+if max_mamaboard_comp == "UPS":
     user_max_index = sublist_max_mamaboard_component_index[8]
 
-if max_mamaboard_lvl == "CPU":
+if max_mamaboard_comp == "CPU":
     user_max_index = sublist_max_mamaboard_component_index[9]
 
-if max_mamaboard_lvl == "Fiber Optical Interface":
+if max_mamaboard_comp == "Fiber Optical Interface":
     user_max_index = sublist_max_mamaboard_component_index[10]
 
-if max_mamaboard_lvl == "M2NVME":
+if max_mamaboard_comp == "M2NVME":
     user_max_index = sublist_max_mamaboard_component_index[11]
 
-if max_mamaboard_lvl == "ASIC board":
+if max_mamaboard_comp == "ASIC board":
     user_max_index = sublist_max_mamaboard_component_index[12]
 
 st.write(user_max_index)
