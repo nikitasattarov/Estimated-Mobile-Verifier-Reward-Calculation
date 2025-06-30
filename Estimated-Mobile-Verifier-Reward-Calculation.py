@@ -191,12 +191,10 @@ g_dict_prev[user_max_index] = g_dict_prev[user_max_index] + user_max_height
 
 mbn_lst_prev = [value for key, value in sorted(mbn_dict_prev.items(), key=lambda item: item[0])]
 
-st.write(mbn_lst_prev)
-
 g_lst_prev = [value for key, value in sorted(g_dict_prev.items(), key=lambda item: item[0])]
-
-st.write(g_lst_prev)
 
 boost_coef_lst = calculate_sum_boost_coefficients(mbn_lst_prev, x1, x2, x3, x4, y1, y2, y3, y4, k1, k2, k3)
 
-#g_boost_sum_value = 
+g_boost_sum_value = sum(ai * bi for ai, bi in zip(g_lst_prev, boost_coef_lst))
+
+st.write(g_boost_sum_value)
