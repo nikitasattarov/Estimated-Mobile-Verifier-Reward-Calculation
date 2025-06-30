@@ -76,10 +76,11 @@ if max_mamaboard_lvl == 1:
     sublist_max_mamaboard_component_index = max_mamaboard_component_index_list[:13]
     st.write(sublist_max_mamaboard_component_index)
 
-elif max_mamaboard_lvl == 2:
+if max_mamaboard_lvl == 2:
     sublist_max_mamaboard_component_index = max_mamaboard_component_index_list[13:27]
     st.write(sublist_max_mamaboard_component_index)
 
-elif max_mamaboard_lvl == 3:
+if max_mamaboard_lvl == 3:
     sublist_max_mamaboard_component_index = max_mamaboard_component_index_list[13:]
     st.write(sublist_max_mamaboard_component_index)
+
