@@ -122,6 +122,6 @@ if max_mamaboard_comp == "ASIC board":
     user_max_index = sublist_max_mamaboard_component_index[12]
 
 with open("mbnlistprev.json", 'r', encoding='utf-8') as f:
-        mbndictprev = json.load(f)
+    mbndictprev = json.load(f)
 
 st.write(mbndictprev)
