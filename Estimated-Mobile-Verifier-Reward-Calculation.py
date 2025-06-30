@@ -207,7 +207,7 @@ boost_coef_lst = calculate_sum_boost_coefficients(mbn_lst_prev, x1, x2, x3, x4, 
 
 g_boost_sum_value = sum(ai * bi for ai, bi in zip(g_lst_prev, boost_coef_lst))
 
-u_mv_e = user_max_height * boost_coef_lst[user_max_index] / g_boost_sum_value
+u_mv_e = math.log(user_max_height) * boost_coef_lst[user_max_index] / g_boost_sum_value
 
 st.write(u_mv_e)
 
