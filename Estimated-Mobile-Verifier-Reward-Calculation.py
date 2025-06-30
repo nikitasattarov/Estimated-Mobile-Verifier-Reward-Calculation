@@ -131,11 +131,9 @@ st.write(mbn_dict_prev)
 
 st.write(g_dict_prev)
 
-updated_mbn_dict_prev = mbn_dict_prev.copy()
-updated_mbn_dict_prev[user_max_index] = mbn_dict_prev.get(user_max_index, 0) + 1
+mbn_dict_prev[user_max_index] = mbn_dict_prev.get(user_max_index, 0) + 1
 
-updated_g_dict_prev = g_dict_prev.copy()
-updated_g_dict_prev[user_max_index] = g_dict_prev.get(user_max_index, 0) + user_max_height
+g_dict_prev[user_max_index] = g_dict_prev.get(user_max_index, 0) + user_max_height
 
-st.write(updated_mbn_dict_prev)
-st.write(updated_g_dict_prev)
+st.write(mbn_dict_prev)
+st.write(g_dict_prev)
