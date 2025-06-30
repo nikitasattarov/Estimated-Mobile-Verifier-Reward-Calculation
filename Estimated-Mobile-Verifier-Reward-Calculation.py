@@ -131,9 +131,9 @@ st.write(mbn_dict_prev)
 
 st.write(g_dict_prev)
 
-mbn_dict_prev[user_max_index] = mbn_dict_prev.get(user_max_index, 0) + 1
+mbn_dict_prev[user_max_index] = mbn_dict_prev[user_max_index] + 1
 
-g_dict_prev[user_max_index] = g_dict_prev.get(user_max_index, 0) + user_max_height
+g_dict_prev[user_max_index] = g_dict_prev[user_max_index] + user_max_height
 
 st.write(mbn_dict_prev)
 st.write(g_dict_prev)
