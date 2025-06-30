@@ -76,7 +76,7 @@ def calculate_sum_boost_coefficients(lst, x1, x2, x3, x4, y1, y2, y3, y4, k1, k2
     return result
 
 def calc_mv_rew_per_sec(t, K_r_mv, T, K_M, u_M):
-    return K_r_mv * T * (1 + K_M) * (math.exp(-u_M * t) - math.expexp(-u_M * (t + 1)))
+    return K_r_mv * T * (1 + K_M) * (math.exp(-u_M * t) - math.exp(-u_M * (t + 1)))
 
 K_r_mv = 0.225
 K_M = 1e-5
