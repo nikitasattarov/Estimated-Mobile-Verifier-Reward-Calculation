@@ -52,6 +52,21 @@ max_mamaboard_lvl = st.selectbox(
     index=0
 )
 
+days = st.number_input(
+        label = r'Enter the number of days from network launch to epoch start', 
+        help = r"The number of days is in $ \lbrack 1, 23148 \rbrack $", 
+        value = 100, 
+        format = "%i",
+        min_value = 1,
+        max_value = 23148
+        )
 
-
+height = st.number_input(
+        label = r'Enter the maximum block height reached during the epoch', 
+        help = r"The maximum block height is in $ \lbrack 1, 10000 \rbrack $", 
+        value = 50, 
+        format = "%i",
+        min_value = 1,
+        max_value = 10000
+        )
 
