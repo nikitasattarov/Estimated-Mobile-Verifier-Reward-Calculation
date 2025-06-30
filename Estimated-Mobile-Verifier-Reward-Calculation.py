@@ -125,7 +125,7 @@ with open("mbndictprev.json", 'r', encoding='utf-8') as f:
     mbn_dict_prev = {int(k): v for k, v in json.load(f).items()}
 
 with open("gdictprev.json", 'r', encoding='utf-8') as f:
-    п_dict_prev = {int(k): v for k, v in json.load(f).items()}
+    g_dict_prev = {int(k): v for k, v in json.load(f).items()}
 
 st.write(mbn_dict_prev)
 
