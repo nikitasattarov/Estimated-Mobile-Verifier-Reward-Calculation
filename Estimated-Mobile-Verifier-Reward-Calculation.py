@@ -63,10 +63,21 @@ days = st.number_input(
 
 height = st.number_input(
         label = r'Enter the maximum block height reached during the epoch', 
-        help = r"The maximum block height is in $ \lbrack 1, 10000 \rbrack $", 
+        help = r"The maximum block height is in $ \lbrack 5, 10000 \rbrack $", 
         value = 50, 
         format = "%i",
-        min_value = 1,
+        min_value = 5,
         max_value = 10000
         )
 
+if max_mamaboard_lvl == 1:
+    subset = new_mamaboard_list[:13]
+    st.write(subset)
+
+elif max_mamaboard_lvl == 2:
+    subset = new_mamaboard_list[:26]
+    st.write(subset)
+
+elif max_mamaboard_lvl == 3:
+    subset = new_mamaboard_list[:40]
+    st.write(subset)
