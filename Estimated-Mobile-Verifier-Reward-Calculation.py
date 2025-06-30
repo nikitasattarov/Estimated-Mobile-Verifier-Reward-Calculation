@@ -21,6 +21,7 @@ new_mamaboard_list = [1500, 5000, 5000, 7500, 20000, 25000, 30000, 40000, 45000,
                     12000, 40000, 40000, 60000, 160000, 200000, 240000, 320000, 360000, 400000, 640000, 720000, 960000]
 
 max_mamaboard_component_index_list = list(range(39))
+user_max_index = 0
 
 st.title("Estimated Mobile Verifier Reward Calculation")
 
