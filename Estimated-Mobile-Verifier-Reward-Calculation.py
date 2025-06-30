@@ -213,6 +213,8 @@ t = days_to_seconds(days)
 
 mv_rew_per_sec = calc_mv_rew_per_sec(t, K_r_mv, T, K_M, u_M)
 
+st.write(mv_rew_per_sec)
+
 user_reward = delta_mv_e * mv_rew_per_sec * u_mv_e
 
 st.write(user_reward)
